@@ -31,7 +31,7 @@ Using data visualization and storytelling techniques, this Excel dashboard bring
 
 ## 📎 Files Included
 
-- `Digital_Music_Takeover_Dashboard.xlsx` – Final interactive dashboard  
+- `US_Music_Revenues.xlsx` – Final interactive dashboard  
 - `README.md` – Project documentation
 
 ---
